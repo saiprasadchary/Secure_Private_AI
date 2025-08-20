@@ -38,8 +38,5 @@ Follow the instructions within each testing file to load the respective model an
 
 Happy testing! If you encounter any issues or have any questions, feel free to reach out.
 
-**Contact Details:**
-Purnima Sai Koumudi: ppanguluri1@student.gsu.edu
-Sai Prasad: skomuroju1@student.gsu.edu
 
 >>>>>>> 1a7887c (Add trained models and accuracy checks)
